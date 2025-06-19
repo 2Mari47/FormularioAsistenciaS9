@@ -18,14 +18,14 @@ Esta aplicación móvil consiste en un formulario donde el usuario podrá regist
         Se insertó el sguiente link: https://www.gob.pe/institucion/inabif/noticias/204485-car-san-pedrito-de-ancash-celebra-22-aniversario 
         El cual se mostrará al inicio del formulario cuando se seleccione el WebView.
 
-        ![Captura de pantalla de webview](images/4.jpg)
-        ![Captura de pantalla de webview](images/5.jpg)
+    ![Captura de pantalla de webview](images/4.jpg)
+    ![Captura de pantalla de webview](images/5.jpg)
 
     2.2. INFO
 
         En caso se seleccione "info" en el menú de opciones, aparecerá una breve información acerca del aplicativo.
 
-        ![Captura de pantalla de info](images/6.jpg) 
+    ![Captura de pantalla de info](images/6.jpg) 
 
 3. COMPLETANDO INFORMACIÓN
 
@@ -44,6 +44,6 @@ Esta aplicación móvil consiste en un formulario donde el usuario podrá regist
     ![Captura de pantalla de confirmacion](images/10.jpg)
 
     Una vez se presione el botón de Registrar otro participante, el formulario se limpiará.
-    
+
     ![Captura de pantalla de confirmacion](images/11.jpg)
 
