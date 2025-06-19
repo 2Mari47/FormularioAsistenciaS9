@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Color para el botón habilitado -->
+    <color name="color_button_enabled">#D32F2F</color> <!-- Rojo (o el color que prefieras para habilitado) -->
+
+    <!-- Color para el botón deshabilitado -->
+    <color name="color_button_disabled">#EB9795</color> <!-- Color cuando esté deshabilitado -->
+
+    <!-- Color para el botón presionado -->
+    <color name="color_button_pressed">#D32F2F</color> <!-- Rojo para el estado presionado -->
+
+</resources>
+

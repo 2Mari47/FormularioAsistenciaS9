@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Registro Participante</string>
+<string-array name="tipo_participante">
+    <item>Estudiante</item>
+    <item>Profesor</item>
+    <item>Personal Administrativo</item>
+</string-array>
+</resources>
